@@ -10,4 +10,5 @@
     <string name="textView_diagnostico">Diagnóstico</string>
     <string name="result_diagnostico">Resultado Diagnóstico</string>
     <string name="btn_voltar">Verificar Novamente</string>
+    <string name="text_preencha">Preencha os campos acima!</string>
 </resources>

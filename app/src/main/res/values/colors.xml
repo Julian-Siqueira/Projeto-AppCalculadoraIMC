@@ -7,4 +7,5 @@
     <color name="fundo">#1ccbb2</color>
     <color name="primaria">#128b7a</color>
     <color name="primaria_variacao">#006153</color>
+    <color name="campos_invalidos">#ff0000</color>
 </resources>
