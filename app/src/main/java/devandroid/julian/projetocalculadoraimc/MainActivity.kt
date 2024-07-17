@@ -86,4 +86,10 @@ class MainActivity : AppCompatActivity() {
         super.onStart()
     }
 
+    override fun onRestart() {
+        editPeso.text?.clear()
+        editAltura.text?.clear()
+        super.onRestart()
+    }
+
 }
