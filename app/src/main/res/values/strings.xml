@@ -5,4 +5,9 @@
     <string name="hint_altura">Digite sua altura ex: 1.60</string>
     <string name="text_obs">Utilize \".\" para casas decimais</string>
     <string name="text_btn_calcular">CALCULAR IMC</string>
+    <string name="info_peso">Peso Informado 0 Kg</string>
+    <string name="info_altura">Altura Informada 0 m</string>
+    <string name="textView_diagnostico">Diagnóstico</string>
+    <string name="result_diagnostico">Resultado Diagnóstico</string>
+    <string name="btn_voltar">Verificar Novamente</string>
 </resources>
