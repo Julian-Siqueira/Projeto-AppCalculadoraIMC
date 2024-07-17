@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProjetoCalculadoraIMC</string>
+    <string name="desc_img">Imagem Calculadora IMC</string>
+    <string name="hint_peso">Digite seu peso ex: 60.9</string>
+    <string name="hint_altura">Digite sua altura ex: 1.60</string>
+    <string name="text_obs">Utilize \".\" para casas decimais</string>
+    <string name="text_btn_calcular">CALCULAR IMC</string>
 </resources>
